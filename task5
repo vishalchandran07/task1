@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* *{
+            color:red;
+        } */
+         /* h1,p{
+            color:green;
+         } */
+          #head{
+            color:red;
+          }
+          .head{
+            color:green;
+          }
+        
+
+    </style>
+</head>
+<body>
+    <h1>heading 1</h1>
+    <h2>heading 2</h2>
+    <h4>welcome</h4>
+    <h5>hello</h5>
+    <h5 class="head">heading 5</h5>
+    <h4 class="head">heading 4</h4>
+    <h1 id="head">heading 11</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus dolor praesentium magnam neque, nisi nihil minus distinctio quis. Maiores velit iure repellat sunt, tempore hic enim corporis illum architecto alias!
+    </p>
+</body>
+</html>
